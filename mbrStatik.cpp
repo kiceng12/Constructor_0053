@@ -32,3 +32,7 @@ void mahasiswa::printAll()
     cout << endl;
 }
 
+int main()
+{
+    
+}
