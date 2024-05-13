@@ -15,3 +15,11 @@ string getJudul()
     return this->judul;
 }
 } bukunya;
+
+int main()
+{
+    // bukunya.setJudul("Matematika");
+    // cout << bukunya.getJUdul()'
+    cout << bukunya.setJudul("Matematika").getJudul(); // chain function calls
+    return 0;
+}
